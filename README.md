@@ -1,7 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 
-
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
@@ -129,7 +128,8 @@ int main() {
 }
 ```
 ## Output:
-![exp-11](https://github.com/user-attachments/assets/a77ac27a-3525-4dcc-8977-97426db762f8)
+![image](https://github.com/user-attachments/assets/4e7b9809-c79d-4983-aa58-19a211147a25)
+
 
 ## Result:
 The program is executed successfully
